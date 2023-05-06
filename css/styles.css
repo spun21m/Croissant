@@ -1,0 +1,27 @@
+body {
+  background: #defcf9;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  margin: 10px;
+  color: rgb(215, 153, 18);
+}
+
+.croisant-img {
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+  border-radius: 5px;
+}
